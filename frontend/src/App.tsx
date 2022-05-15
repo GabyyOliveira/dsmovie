@@ -5,13 +5,13 @@ import {
 } from "react-router-dom";
 import Listing from './pages/Listing';
 import Form from 'pages/Form';
-import NavBar from "components/NavBar";
+import Navbar from "components/Navbar";
 
 function App() {
   return (
     //iniciar a configuração das rotas
     <BrowserRouter>
-      <NavBar />
+      <Navbar />
       <Routes>
         {/* na rota localhost:3000 abre a lista de filmes */}
         <Route path="/" element={<Listing />} />
