@@ -1,0 +1,10 @@
+postgres://
+zdmkaczafyxyzv
+:
+7c9fc45f78148f56835d2cdd32753715f876f0408570ea06e146582e23399b67
+@
+ec2-3-229-11-55.compute-1.amazonaws.com
+:
+5432
+/
+dcfdkp9l6tck77
